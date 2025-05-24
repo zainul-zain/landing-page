@@ -121,7 +121,6 @@
     text-align: center;
     font-weight: 900;
     font-size: 46px;
-    --animation-delay: 3.4s;
 }
 
 .header .header-box .title p {
@@ -129,7 +128,6 @@
     text-align: center;
     padding-top: 20px;
     line-height: 1.8;
-    --animation-delay: 3s;
 }
 
 .header .header-box .hero-img {
